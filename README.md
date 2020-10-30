@@ -4,7 +4,9 @@ This project is a demo blocklet bootstrapped with [Gatsby Starter Blog](https://
 
 ## Run and debug in the cloud with Gitpod
 
-Click the "Open in Gitpod" button, Gitpod will start ABT Node and the blocklet.<br>[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/blocklet/express-demo)
+Click the "Open in Gitpod" button, Gitpod will start ABT Node and the blocklet.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/blocklet/express-demo)
 
 ## Run and debug locally
 
