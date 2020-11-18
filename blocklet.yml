@@ -1,18 +1,18 @@
 name: express-demo
-version: 0.1.0
-main: app.js
-title: Express Demo
-author: ArcBlock
-scripts:
-  dev: npm run start
 description: >-
   Blocklet from
   /Users/linchen/code/blocklet/blocklet-migrate-ci/workspaces/express-demo
 group: dapp
+version: 0.1.1
+main: app.js
+title: Express Demo
 publicUrl: /
-capabilities:
-  dynamicPathPrefix: true
+author: ArcBlock
 charging:
   price: 0
-did: z8iZkvDaD2pG1KrEa9mHRULGCq3e1kJkVCXRT
+capabilities:
+  dynamicPathPrefix: true
+scripts:
+  dev: npm run start
 specVersion: 1.0.0
+did: z8iZkvDaD2pG1KrEa9mHRULGCq3e1kJkVCXRT
