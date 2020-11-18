@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 /**
  * Module dependencies.
  */
@@ -7,6 +5,7 @@
 var app = require('../app');
 var debug = require('debug')('express-demo:server');
 var http = require('http');
+require('jade');
 
 /**
  * Get port from environment and store in Express.
