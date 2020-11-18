@@ -3,7 +3,7 @@ description: >-
   Blocklet from
   /Users/linchen/code/blocklet/blocklet-migrate-ci/workspaces/express-demo
 group: dapp
-version: 0.1.1
+version: 0.1.2
 main: ./bin/www.js
 title: Express Demo
 publicUrl: /
