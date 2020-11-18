@@ -13,13 +13,5 @@
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1"
-  },
-  "blocklet": {
-    "scripts": {
-      "dev": "npm run start"
-    },
-    "main": "app.js",
-    "author": "ArcBlock",
-    "title": "Express Demo"
   }
 }
