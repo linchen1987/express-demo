@@ -1,18 +1,28 @@
 name: express-demo
-description: >-
-  Blocklet from
-  /Users/linchen/code/blocklet/blocklet-migrate-ci/workspaces/express-demo
-group: dapp
 version: 0.1.3
 main: ./bin/www.js
+files:
+  - views
+description: >-
+  Blocklet from local express-demo
+group: dapp
 title: Express Demo
-publicUrl: /
-author: ArcBlock
-charging:
-  price: 0
-capabilities:
-  dynamicPathPrefix: true
+author:
+  name: ArcBlock
 scripts:
   dev: npm run start
-specVersion: 1.0.0
+specVersion: 1.0.1
 did: z8iZkvDaD2pG1KrEa9mHRULGCq3e1kJkVCXRT
+community: ''
+documentation: ''
+homepage: ''
+license: ''
+interfaces:
+  - type: web
+    name: publicUrl
+    path: /
+    prefix: '*'
+    port: BLOCKLET_PORT
+    protocol: tcp
+environments: []
+screenshots: []
