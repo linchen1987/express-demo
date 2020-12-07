@@ -45,5 +45,5 @@
 	"forwardPorts": [80],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-// 	"postCreateCommand": "npm install && abtnode init -f --mode debug --no-https && abtnode start"
+	"postCreateCommand": "npm install && abtnode init -f --mode debug --no-https && abtnode start"
 }
