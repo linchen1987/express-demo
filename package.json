@@ -12,9 +12,12 @@
     "morgan": "~1.9.1"
   },
   "scripts": {
-    "start": "node ./bin/www.js",
+    "start": "nodemon ./bin/www.js",
     "clean": "rm -rf .blocklet",
     "bundle": "npm run clean && abtnode bundle --zip --create-release",
     "deploy": "npm run bundle && abtnode deploy .blocklet/bundle"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }

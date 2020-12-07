@@ -1,3 +1,7 @@
+https://53763a21-0426-4f72-9621-1d314fc81ab4-80.apps.codespaces.githubusercontent.com/admin/express-demo/publicUrl/
+https://53763a21-0426-4f72-9621-1d314fc81ab4-80.apps.codespaces.githubusercontent.com/dev
+https://127.0.0.1
+
 # Express Demo
 
 This project is a demo blocklet bootstrapped with [Express Generator](https://expressjs.com/en/starter/generator.html)
